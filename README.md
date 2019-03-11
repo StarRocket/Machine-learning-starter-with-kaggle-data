@@ -50,8 +50,7 @@ Kristen (R-Ladies Co-Organizer)：專長是電子商務數據挖掘和電信數�
 * 線上學習：
     * Azure Machine Learning Studio 的機器學習演算法小祕技：[連結](https://docs.microsoft.com/zh-tw/azure/machine-learning/studio/algorithm-cheat-sheet)
 * 推薦社群：
-    * [R-Ladies](
-連結：https://rladiestaipei.github.io/R-Ladies-Taipei/)：以女性為優先的 R 語言學習社群。 不同於資訊、技術領域明顯落差的男女比，與男性為多數所形成的文化； 我們期許 R-Ladies Taipei 提供一個以女性為主、開放、自由交流的學習環境，鼓勵女性夥伴們在R語言應用、資料分析相關領域互相幫助，一同精進與成長。
+    * [R-Ladies](https://rladiestaipei.github.io/R-Ladies-Taipei/)：以女性為優先的 R 語言學習社群。 不同於資訊、技術領域明顯落差的男女比，與男性為多數所形成的文化； 我們期許 R-Ladies Taipei 提供一個以女性為主、開放、自由交流的學習環境，鼓勵女性夥伴們在R語言應用、資料分析相關領域互相幫助，一同精進與成長。
 
 
 ## 課程媒體紀錄
